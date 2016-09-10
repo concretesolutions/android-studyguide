@@ -46,3 +46,6 @@
 # Sobre Criptografia & Segurança
  - [Crypto 101](https://www.crypto101.io/)
  - [Android Security Internals](https://www.nostarch.com/androidsecurity)
+
+# Sobre Carreira e Desenvolvimento
+ - [How to Be a Programmer](https://github.com/braydie/HowToBeAProgrammer)
