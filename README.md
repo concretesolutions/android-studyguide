@@ -49,3 +49,4 @@
 
 # Sobre Carreira e Desenvolvimento
  - [How to Be a Programmer](https://github.com/braydie/HowToBeAProgrammer)
+ - [What to Look for in a Code Review](https://blog.jetbrains.com/upsource/2016/01/25/what-to-look-for-in-a-code-review-book/)
