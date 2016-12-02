@@ -46,6 +46,10 @@
 # Sobre Criptografia & Segurança
  - [Crypto 101](https://www.crypto101.io/)
  - [Android Security Internals](https://www.nostarch.com/androidsecurity)
+ 
+# Sobre Ciência da Computação
+ - [Open Source Computer Science](https://github.com/open-source-society/computer-science)
+  - Um curso de Ciência da Computação curado pela comunidade, utilizando como fontes cursos abertos das melhores universidades do mundo. Para quem tem vontade de aprender, complementar o curso que fez, revisar ou mesmo começar, é um excelente material.
 
 # Sobre Carreira e Desenvolvimento
  - [How to Be a Programmer](https://github.com/braydie/HowToBeAProgrammer)
