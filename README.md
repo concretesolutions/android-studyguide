@@ -56,3 +56,11 @@
 # Sobre Carreira e Desenvolvimento
  - [How to Be a Programmer](https://github.com/braydie/HowToBeAProgrammer)
  - [What to Look for in a Code Review](https://blog.jetbrains.com/upsource/2016/01/25/what-to-look-for-in-a-code-review-book/)
+ 
+## Cursos da Udacity (Gratuitos)
+ - [Desenvolvimento Android para Iniciantes](https://br.udacity.com/course/android-development-for-beginners--ud837/)
+ - [Desenvolvendo Apps Android](https://br.udacity.com/course/developing-android-apps--ud853/)
+ - [Desenvolvimento de Apps Android Avançado](https://br.udacity.com/course/advanced-android-app-development--ud855/)
+ - [Gradle para Android & Java](https://br.udacity.com/course/gradle-for-android-and-java--ud867/)
+ - [Material Design para Desenvolvedores Android](https://br.udacity.com/course/material-design-for-android-developers--ud862/)
+ - [Desenvolvimento Android Wear](https://br.udacity.com/course/android-wear-development--ud875a/)
