@@ -30,6 +30,8 @@
 # Sobre Git
  - [Pro Git](https://progit.org/)
   - Livro escrito pelos fundadores do Github. Um tour guiado do aprendizado do Git desde o começo até tópicos bem avançados. Leitura recomendada mesmo para aqueles que já se sentem confortáveis com o uso da ferramenta em linha de comando.
+ - [What to Look for in a Code Review](https://leanpub.com/whattolookforinacodereview)
+  - Não exatamente relacionado a Git, mas a prática do Code Review (que tem bastante relação com os fluxos de Git).
 
 # Sobre Linux
  - [Guia Foca Linux](http://www.guiafoca.org/)
@@ -46,7 +48,7 @@
 # Sobre Criptografia & Segurança
  - [Crypto 101](https://www.crypto101.io/)
  - [Android Security Internals](https://www.nostarch.com/androidsecurity)
- 
+
 # Sobre Ciência da Computação
  - [Open Source Computer Science](https://github.com/open-source-society/computer-science)
   - Um curso de Ciência da Computação curado pela comunidade, utilizando como fontes cursos abertos das melhores universidades do mundo. Para quem tem vontade de aprender, complementar o curso que fez, revisar ou mesmo começar, é um excelente material.
