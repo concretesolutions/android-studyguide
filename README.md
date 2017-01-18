@@ -59,6 +59,7 @@
  
 ## Cursos da Udacity (Gratuitos)
  - [Desenvolvimento Android para Iniciantes](https://br.udacity.com/course/android-development-for-beginners--ud837/)
+ - [New Android Fundamentals](https://br.udacity.com/course/new-android-fundamentals--ud851/)
  - [Desenvolvendo Apps Android](https://br.udacity.com/course/developing-android-apps--ud853/)
  - [Desenvolvimento de Apps Android Avançado](https://br.udacity.com/course/advanced-android-app-development--ud855/)
  - [Gradle para Android & Java](https://br.udacity.com/course/gradle-for-android-and-java--ud867/)
