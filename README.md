@@ -58,6 +58,11 @@
  - [What to Look for in a Code Review](https://blog.jetbrains.com/upsource/2016/01/25/what-to-look-for-in-a-code-review-book/)
  
 ## Cursos da Udacity (Gratuitos)
+ - [How to Create \<anything\> in Android](https://br.udacity.com/course/how-to-create-anything-in-android--ud802/)
+ - [Android Basics: User Input](https://br.udacity.com/course/android-basics-user-input--ud836/)
+ - [Android Basics: Data Storage](https://br.udacity.com/course/android-basics-data-storage--ud845/)
+ - [Android Basics: Networking](https://br.udacity.com/course/android-basics-networking--ud843/)
+ - [Android Basics: Multi-Screen Apps](https://br.udacity.com/course/android-basics-multi-screen-apps--ud839/)
  - [Desenvolvimento Android para Iniciantes](https://br.udacity.com/course/android-development-for-beginners--ud837/)
  - [New Android Fundamentals](https://br.udacity.com/course/new-android-fundamentals--ud851/)
  - [Desenvolvendo Apps Android](https://br.udacity.com/course/developing-android-apps--ud853/)
@@ -65,3 +70,5 @@
  - [Gradle para Android & Java](https://br.udacity.com/course/gradle-for-android-and-java--ud867/)
  - [Material Design para Desenvolvedores Android](https://br.udacity.com/course/material-design-for-android-developers--ud862/)
  - [Desenvolvimento Android Wear](https://br.udacity.com/course/android-wear-development--ud875a/)
+ - [Desenvolvimento Android Auto](https://br.udacity.com/course/android-auto-development--ud875c/)
+ - [Android TV e Desenvolvimento Google Cast](https://br.udacity.com/course/android-tv-and-google-cast-development--ud875b/)
