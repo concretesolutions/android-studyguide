@@ -32,7 +32,13 @@
   - Livro escrito pelos fundadores do Github. Um tour guiado do aprendizado do Git desde o começo até tópicos bem avançados. Leitura recomendada mesmo para aqueles que já se sentem confortáveis com o uso da ferramenta em linha de comando.
  - [What to Look for in a Code Review](https://leanpub.com/whattolookforinacodereview)
   - Não exatamente relacionado a Git, mas a prática do Code Review (que tem bastante relação com os fluxos de Git).
-
+ - [Git Cheatsheet](http://lennonjesus.github.io/git-cheatsheet/)
+  - Uma lista com vários comandos úteis no dia-a-dia
+ - [Git-flow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
+  - O [git-flow](https://github.com/nvie/gitflow) é um conjunto de extensões para o git que provê operações de alto-nível para repositórios usando o [modelo de branches](http://nvie.com/posts/a-successful-git-branching-model/) do Vincent Driessen.
+ - [Git Style Guide](https://github.com/agis-/git-style-guide)
+  - Um guia com diversas boas práticas relacionadas ao Git
+  
 # Sobre Linux
  - [Guia Foca Linux](http://www.guiafoca.org/)
  - [Linux from Scratch](http://www.linuxfromscratch.org/)
@@ -44,6 +50,7 @@
  - [Scrum Guides](http://www.scrumguides.org/)
  - [A Startup Enxuta](https://www.amazon.com.br/Startup-Enxuta-Eric-Ries-ebook/dp/B00A3C4GAK/)
  - [Learning Agile: Understanding Scrum, XP, Lean, and Kanban](https://www.amazon.com.br/Learning-Agile-Understanding-Scrum-Kanban-ebook/dp/B00PJ8YKRM/)
+ - [Direto ao Ponto - Criando produtos de forma enxuta](https://www.casadocodigo.com.br/products/livro-direto-ao-ponto)
 
 # Sobre Criptografia & Segurança
  - [Crypto 101](https://www.crypto101.io/)
@@ -72,3 +79,4 @@
  - [Desenvolvimento Android Wear](https://br.udacity.com/course/android-wear-development--ud875a/)
  - [Desenvolvimento Android Auto](https://br.udacity.com/course/android-auto-development--ud875c/)
  - [Android TV e Desenvolvimento Google Cast](https://br.udacity.com/course/android-tv-and-google-cast-development--ud875b/)
+ - [Add Google Maps to your Android App](https://br.udacity.com/course/add-google-maps-to-your-android-app--ud876-4/)
