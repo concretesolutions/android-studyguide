@@ -50,7 +50,7 @@
  - [Crypto 101](https://www.crypto101.io/)
  - [Android Security Internals](https://www.nostarch.com/androidsecurity)
  - [Java Cryptography Architecture](http://docs.oracle.com/javase/8/docs/technotes/guides/security/crypto/CryptoSpec.html)
-  - Documentação sobre a arquitetura de segurança do Java SE. Possui links para as tabelas de provedores de algoritmos de segurança e explicaço das APIs do pacote `javax.crypto`.
+  - Documentação sobre a arquitetura de segurança do Java SE. Possui links para as tabelas de provedores de algoritmos de segurança e explicações das APIs do pacote `javax.crypto`.
   
 # Sobre Ciência da Computação
  - [Open Source Computer Science](https://github.com/open-source-society/computer-science)
