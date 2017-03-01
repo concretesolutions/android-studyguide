@@ -39,7 +39,8 @@
 
 # Sobre Networking
  - [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
-
+  - Tese que introduz e descreve o padro RESTful web-services. 
+  
 # Sobre Agile
  - [Scrum Guides](http://www.scrumguides.org/)
  - [A Startup Enxuta](https://www.amazon.com.br/Startup-Enxuta-Eric-Ries-ebook/dp/B00A3C4GAK/)
@@ -48,7 +49,9 @@
 # Sobre Criptografia & Segurança
  - [Crypto 101](https://www.crypto101.io/)
  - [Android Security Internals](https://www.nostarch.com/androidsecurity)
-
+ - [Java Cryptography Architecture](http://docs.oracle.com/javase/8/docs/technotes/guides/security/crypto/CryptoSpec.html)
+  - Documentação sobre a arquitetura de segurança do Java SE. Possui links para as tabelas de provedores de algoritmos de segurança e explicaço das APIs do pacote `javax.crypto`.
+  
 # Sobre Ciência da Computação
  - [Open Source Computer Science](https://github.com/open-source-society/computer-science)
   - Um curso de Ciência da Computação curado pela comunidade, utilizando como fontes cursos abertos das melhores universidades do mundo. Para quem tem vontade de aprender, complementar o curso que fez, revisar ou mesmo começar, é um excelente material.
