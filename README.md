@@ -1,15 +1,15 @@
 # Sobre Java
  - [Effective Java](https://www.amazon.com.br/Effective-Java-Programming-Language-Guide-ebook/dp/B00B8V09HY/)
-  - Receitas e discussões importantíssimas da linguagem Java. Escrito por um dos autores de várias classes do próprio Java
-  - Possui versão em Português também, porém, nossa experiência recente em encontrar disponibilidade no mercado é bem ruim
+   - Receitas e discussões importantíssimas da linguagem Java. Escrito por um dos autores de várias classes do próprio Java
+   - Possui versão em Português também, porém, nossa experiência recente em encontrar disponibilidade no mercado é bem ruim
  - [The Java Language & Virtual Machine Specification](https://docs.oracle.com/javase/specs/)
-  - Trata-se de dois "livros" documentos que tratam sobre a linguagem e a máquina virtual Java. O intuito é ser a fonte de documentação para quem quiser implementar um "Java" ou uma "Java Virtual Machine".
+   - Trata-se de dois "livros" documentos que tratam sobre a linguagem e a máquina virtual Java. O intuito é ser a fonte de documentação para quem quiser implementar um "Java" ou uma "Java Virtual Machine".
  - [Introdução à Arquitetura e Design de Software](https://www.casadocodigo.com.br/products/livro-arquitetura-java)
-  - Excelente livro sobre arquitetura de software que não se foca simplesmente em padrões de projeto, mas abre uma discussão excelente sobre o bom uso da orientação a objetos em arquitetura e design de software.
+   - Excelente livro sobre arquitetura de software que não se foca simplesmente em padrões de projeto, mas abre uma discussão excelente sobre o bom uso da orientação a objetos em arquitetura e design de software.
  - [Java Generics and Collections](https://www.amazon.com.br/Java-Generics-Collections-Maurice-Naftalin-ebook/dp/B0026OR2HM/)
-  - Abordagem didática sobre a implementação de *generics* em Java. Trata-se de um livro denso, porém bastante instrutivo.
+   - Abordagem didática sobre a implementação de *generics* em Java. Trata-se de um livro denso, porém bastante instrutivo.
  - [Java Concurrency in Practice](https://www.amazon.com.br/Java-Concurrency-Practice-Tim-Peierls-ebook/dp/B004V9OA84/)
-  - Um livro que aborda um dos pontos mais complicados do desenvolvimento em Java: programação assíncrona. Este livro é bastante complicado e pesado, mas aborda o assunto de forma exaustiva e abrangente.
+   - Um livro que aborda um dos pontos mais complicados do desenvolvimento em Java: programação assíncrona. Este livro é bastante complicado e pesado, mas aborda o assunto de forma exaustiva e abrangente.
 
 # Sobre Android
  - [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/)
@@ -28,37 +28,37 @@
  - [TDD Desenvolvimento Guiado por Testes](https://www.amazon.com.br/TDD-Desenvolvimento-Guiado-por-Testes-ebook/dp/B016V88JFW/)
 
 # Sobre Git
- - [Pro Git](https://progit.org/)
+- [Pro Git](https://progit.org/) 
   - Livro escrito pelos fundadores do Github. Um tour guiado do aprendizado do Git desde o começo até tópicos bem avançados. Leitura recomendada mesmo para aqueles que já se sentem confortáveis com o uso da ferramenta em linha de comando.
- - [What to Look for in a Code Review](https://leanpub.com/whattolookforinacodereview)
+- [What to Look for in a Code Review](https://leanpub.com/whattolookforinacodereview)
   - Não exatamente relacionado a Git, mas a prática do Code Review (que tem bastante relação com os fluxos de Git).
- - [Git Cheatsheet](http://lennonjesus.github.io/git-cheatsheet/)
-  - Uma lista com vários comandos úteis no dia-a-dia
- - [Git-flow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
-  - O [git-flow](https://github.com/nvie/gitflow) é um conjunto de extensões para o git que provê operações de alto-nível para repositórios usando o [modelo de branches](http://nvie.com/posts/a-successful-git-branching-model/) do Vincent Driessen.
- - [Git Style Guide](https://github.com/agis-/git-style-guide)
-  - Um guia com diversas boas práticas relacionadas ao Git
-  
+ - [Git Cheatsheet](http://lennonjesus.github.io/git-cheatsheet/) 
+   - Uma lista com vários comandos úteis no dia-a-dia
+ - [Git Style Guide](https://github.com/agis-/git-style-guide) 
+   - Um guia com diversas boas práticas relacionadas ao Git
+
 # Sobre Linux
  - [Guia Foca Linux](http://www.guiafoca.org/)
  - [Linux from Scratch](http://www.linuxfromscratch.org/)
 
 # Sobre Networking
  - [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
-
+   - Tese que introduz e descreve o padrão RESTful web-services. 
+  
 # Sobre Agile
  - [Scrum Guides](http://www.scrumguides.org/)
  - [A Startup Enxuta](https://www.amazon.com.br/Startup-Enxuta-Eric-Ries-ebook/dp/B00A3C4GAK/)
  - [Learning Agile: Understanding Scrum, XP, Lean, and Kanban](https://www.amazon.com.br/Learning-Agile-Understanding-Scrum-Kanban-ebook/dp/B00PJ8YKRM/)
- - [Direto ao Ponto - Criando produtos de forma enxuta](https://www.casadocodigo.com.br/products/livro-direto-ao-ponto)
 
 # Sobre Criptografia & Segurança
  - [Crypto 101](https://www.crypto101.io/)
  - [Android Security Internals](https://www.nostarch.com/androidsecurity)
-
+ - [Java Cryptography Architecture](http://docs.oracle.com/javase/8/docs/technotes/guides/security/crypto/CryptoSpec.html)
+   - Documentação sobre a arquitetura de segurança do Java SE. Possui links para as tabelas de provedores de algoritmos de segurança e explicações das APIs do pacote `javax.crypto`.
+  
 # Sobre Ciência da Computação
  - [Open Source Computer Science](https://github.com/open-source-society/computer-science)
-  - Um curso de Ciência da Computação curado pela comunidade, utilizando como fontes cursos abertos das melhores universidades do mundo. Para quem tem vontade de aprender, complementar o curso que fez, revisar ou mesmo começar, é um excelente material.
+   - Um curso de Ciência da Computação curado pela comunidade, utilizando como fontes cursos abertos das melhores universidades do mundo. Para quem tem vontade de aprender, complementar o curso que fez, revisar ou mesmo começar, é um excelente material.
 
 # Sobre Carreira e Desenvolvimento
  - [How to Be a Programmer](https://github.com/braydie/HowToBeAProgrammer)
