@@ -12,6 +12,7 @@
    - Um livro que aborda um dos pontos mais complicados do desenvolvimento em Java: programação assíncrona. Este livro é bastante complicado e pesado, mas aborda o assunto de forma exaustiva e abrangente.
 
 # Sobre Android
+ - [Android Programming: The Big Nerd Ranch Guide](http://www.informit.com/store/android-programming-the-big-nerd-ranch-guide-9780134706054)
  - [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/)
  - [Dominando o Android](http://novatec.com.br/livros/dominando-android-2ed/)
  - [Pro Android 5](https://www.amazon.com.br/Pro-Android-5-Dave-MacLean-ebook/dp/B00S0P60YM/)
