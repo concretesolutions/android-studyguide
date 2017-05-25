@@ -10,6 +10,10 @@
    - Abordagem didática sobre a implementação de *generics* em Java. Trata-se de um livro denso, porém bastante instrutivo.
  - [Java Concurrency in Practice](https://www.amazon.com.br/Java-Concurrency-Practice-Tim-Peierls-ebook/dp/B004V9OA84/)
    - Um livro que aborda um dos pontos mais complicados do desenvolvimento em Java: programação assíncrona. Este livro é bastante complicado e pesado, mas aborda o assunto de forma exaustiva e abrangente.
+   
+# Sobre Kotlin
+ - [Kotlin for Android Developers](https://leanpub.com/kotlin-for-android-developers)
+ - [Kotlin in Action](https://www.manning.com/books/kotlin-in-action)
 
 # Sobre Android
  - [Android Programming: The Big Nerd Ranch Guide](http://www.informit.com/store/android-programming-the-big-nerd-ranch-guide-9780134706054)
@@ -37,6 +41,9 @@
    - Uma lista com vários comandos úteis no dia-a-dia
  - [Git Style Guide](https://github.com/agis-/git-style-guide) 
    - Um guia com diversas boas práticas relacionadas ao Git
+   
+# Sobre Produtividade
+ - [DOJO de Atalhos do IntelliJ / Android Studio](https://www.shortcutfoo.com/app/dojos/intellij-idea-win)
 
 # Sobre Linux
  - [Guia Foca Linux](http://www.guiafoca.org/)
