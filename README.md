@@ -10,6 +10,7 @@
    - Abordagem didática sobre a implementação de *generics* em Java. Trata-se de um livro denso, porém bastante instrutivo.
  - [Java Concurrency in Practice](https://www.amazon.com.br/Java-Concurrency-Practice-Tim-Peierls-ebook/dp/B004V9OA84/)
    - Um livro que aborda um dos pontos mais complicados do desenvolvimento em Java: programação assíncrona. Este livro é bastante complicado e pesado, mas aborda o assunto de forma exaustiva e abrangente.
+ - [Apostila Java e OOO - Caelum](https://www.caelum.com.br/apostila-java-orientacao-objetos/)
    
 # Sobre Kotlin
  - [Kotlin for Android Developers](https://leanpub.com/kotlin-for-android-developers)
