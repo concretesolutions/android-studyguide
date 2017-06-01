@@ -88,3 +88,5 @@
  - [Desenvolvimento Android Auto](https://br.udacity.com/course/android-auto-development--ud875c/)
  - [Android TV e Desenvolvimento Google Cast](https://br.udacity.com/course/android-tv-and-google-cast-development--ud875b/)
  - [Add Google Maps to your Android App](https://br.udacity.com/course/add-google-maps-to-your-android-app--ud876-4/)
+ - [Firebase in a Weekend by Google: Android](https://br.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352/)
+ - [Firebase Essentials for Android](https://br.udacity.com/course/firebase-essentials-for-android--ud009/)
