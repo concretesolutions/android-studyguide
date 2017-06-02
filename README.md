@@ -91,4 +91,5 @@
  - [Desenvolvimento Android Auto](https://br.udacity.com/course/android-auto-development--ud875c/)
  - [Add Google Maps to your Android App](https://br.udacity.com/course/add-google-maps-to-your-android-app--ud876-4/)
  - [Firebase Essentials for Android](https://br.udacity.com/course/firebase-essentials-for-android--ud009/)
+ - [Firebase Analytics for Android](https://www.udacity.com/course/firebase-analytics-android--ud354)
  - [Firebase in a Weekend by Google: Android](https://br.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352/)
