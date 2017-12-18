@@ -22,6 +22,8 @@
  - [Dominando o Android](http://novatec.com.br/livros/dominando-android-2ed/)
  - [Pro Android 5](https://www.amazon.com.br/Pro-Android-5-Dave-MacLean-ebook/dp/B00S0P60YM/)
  - [Android Basics Nanodegree](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) e [Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801), da Udacity
+ - [Android Developer Fundamentals](https://developers.google.com/training/courses/android-fundamentals) (Google Developers Training)
+ - [Advanced Android Development](https://developers.google.com/training/courses/android-advanced) (Google Developers Training)
 
 # Sobre Gradle
  - [Gradle for Android & Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867), da Udacity (incluído no **Android Developer Nanodegree**)
